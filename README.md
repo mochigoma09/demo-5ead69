@@ -1,2 +1,3 @@
 # demo-5ead69
-Auto generated demo site for 中野工務店
+
+AIによって自動生成された 中野工務店 様向けのデモサイトです。
